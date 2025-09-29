@@ -70,3 +70,15 @@ Sala de prensa: noticias, campañas, eventos.
 
 Agenda: Actividades, jornadas, ferias.
 
+# Valoración Crítica
+## Lo conociais?
+</Br>
+No, pero si alguno le sonaba de algo.
+
+## Creeis que es de utilidad
+</Br>
+El Incibe es super útil, ya que nos presenta el 017 para dudas y emergencias de ciberseguridad, alerta de fraudes y ataques, Guía y formación sobre el mundo digital, es decir un recurso oficial y práctico para protegerse de cualquier amenaza de Internet.
+
+## Qué mejoras propondrías en lo relacionado con el incibe?
+</Br>
+Ofrecer formación básica dentro del entorno de ciberseguridad con disponibilidad al alcance de todos, creación de web/app para noticias sobre actos delictivos en Internet, extender el alcance local de la formación sobre ciberseguridad básica con charlas presenciales en institutos o talleres
