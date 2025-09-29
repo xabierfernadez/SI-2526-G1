@@ -95,6 +95,7 @@ Sí, El Incibe es super útil porque nos proporciona el número 017 para alguna 
 
 ## Qué mejoras propondrías en lo relacionado con el Incibe?
 </Br>
+
 - Ofrecer formación básica dentro del entorno de ciberseguridad con disponibilidad al alcance de todos.
 
 - Creación de plataforma multiplataformas(PC/Móviles) para noticias sobre actos delictivos en Internet.
