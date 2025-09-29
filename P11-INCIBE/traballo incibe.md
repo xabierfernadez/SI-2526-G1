@@ -31,44 +31,58 @@ El INCIBE tiene como funcion principal proteger a ciudadanos menores y empresas 
 # Secciones de la web ? + explicación de cada una:
 
 ## Ciudadanía
-Tu ayuda en ciberseguridad: orientación personalizada.
 
-Avisos y alertas: sobre fraudes, virus, y amenazas.
+Objetivo: Ayudar a los ciudadanos a protegerse en el entorno digital.
 
-Formación y concienciación: cursos online, guías, talleres, juegos.
+Contenido: Guías prácticas, herramientas de seguridad, cursos online, consejos sobre privacidad, antivirus, contraseñas, fraudes online, y más.
 
-Herramientas de seguridad: antivirus, cortafuegos, cifrado, etc.
+Destacado: Servicio de ayuda 017 para resolver dudas sobre ciberseguridad.
 
 ## Menores
-Educadores y familias: materiales didácticos, control parental.
 
-Jóvenes: recursos interactivos, campañas de concienciación.
+Objetivo: Promover la ciberseguridad entre niños, jóvenes, familias y educadores.
 
-Temáticas clave: sexting, ciberacoso, grooming, redes sociales.
+Contenido: Materiales didácticos, juegos interactivos, jornadas escolares, consejos sobre control parental, ciberacoso, sexting, grooming, etc.
+
+Destacado: Campañas como #StopAbusoMenores y recursos para educadores.
 
 ## Empresas
-Servicios profesionales: asesoramiento, respuesta a incidentes.
 
-SECtoriza2: blog especializado en ciberseguridad empresarial.
+Objetivo: Apoyar a empresas, especialmente pymes, en la protección digital.
 
-Avisos y vulnerabilidades: alertas técnicas y CVEs.
+Contenido: Servicios profesionales, herramientas de diagnóstico, formación, alertas de seguridad, y asesoramiento técnico.
 
-## Profesionales y Sector TIC
+Destacado: Programas como INCIBE Emprende y el blog SECtoriza2.
 
-INCIBE-CERT: centro de respuesta ante incidentes.
+## INCIBE-CERT
 
-Proyectos europeos y colaboraciones: innovación y desarrollo.
+Objetivo: Actuar como centro de respuesta ante incidentes de ciberseguridad.
 
-Publicaciones y estudios: guías, seminarios web, investigaciones.
+Contenido: Alertas tempranas, avisos de vulnerabilidades, coordinación de CVEs, procedimientos de notificación.
 
-## Información Corporativa
-Quiénes somos: misión, visión, organigrama.
+Destacado: Asistencia técnica a empresas y ciudadanos afectados por ciberataques.
 
-Transparencia y contrataciones: perfil del contratante, empleo.
+## Formación y concienciación
 
-Sala de prensa: noticias, campañas, eventos.
+Objetivo: Mejorar las competencias digitales de todos los públicos.
 
-Agenda: Actividades, jornadas, ferias.
+Contenido: Cursos online, talleres, recursos descargables, test de autoevaluación, y actividades interactivas.
+
+Destacado: Segmentación por dispositivos (Android, iOS) y temáticas (navegación segura, compras online).
+
+## Sala de prensa / Información corporativa
+
+Objetivo: Informar sobre la actividad institucional de INCIBE.
+
+Contenido: Noticias, notas de prensa, agenda de eventos, transparencia, perfil del contratante, empleo.
+
+Destacado: Acceso a publicaciones y estudios sobre ciberseguridad.
+
+## Proyectos Europeos y colaboraciones
+
+Objetivo: Impulsar la innovación y cooperación internacional.
+
+Contenido: Iniciativas con universidades, membresías, colaboraciones con el sector TIC, y proyectos de I+D+i.
 
 # Valoración Crítica
 ## Lo conociais?
