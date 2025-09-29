@@ -2,7 +2,7 @@
 <br/>
 <br/>
 
-## Adan neza xabier
+## Adan Nezha   Xabier
 
 ## 2º Sistemas Microinformáticos y Redes
 
@@ -25,7 +25,7 @@ INCIBE o instituto nacional de ciberseguridad es uno de los equipos de respuesta
 <br/>
 <br/>
 
-## QUE FUNCION TIENE ?
+## QUE FUNCIÓN TIENE ?
 El INCIBE tiene como funcion principal proteger a ciudadanos menores y empresas de las amenazas digitales actuando como un centro de respuesta a emergencias fomentando la investigacion y la innovacion en ciberseguridad y promoviendo la transformacion digital segura en España.
 
 # Secciones de la web ? + explicación de cada una:
