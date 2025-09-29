@@ -89,10 +89,13 @@ Contenido: Iniciativas con universidades, membresías, colaboraciones con el sec
 </Br>
 No, pero si alguno le sonaba de algo.
 
-## Creeis que es de utilidad?
+## Creéis que es de utilidad
 </Br>
-El Incibe es super útil, ya que nos presenta el 017 para dudas y emergencias de ciberseguridad, alerta de fraudes y ataques, Guía y formación sobre el mundo digital, es decir un recurso oficial y práctico para protegerse de cualquier amenaza de Internet.
+Sí, El Incibe es super útil porque nos proporciona el número 017 para alguna duda o emergencia sobre ciberseguridad, por otro lado, también alerta de fraudes y ataques con fines delictivos, ofrece guías y formación sobre el ámbito digital, es decir, actúa como un recurso oficial y práctico sobre Internet.
 
-## Qué mejoras propondrías en lo relacionado con el incibe?
+## Qué mejoras propondrías en lo relacionado con el Incibe?
 </Br>
-Ofrecer formación básica dentro del entorno de ciberseguridad con disponibilidad al alcance de todos, creación de web/app para noticias sobre actos delictivos en Internet, extender el alcance local de la formación sobre ciberseguridad básica con charlas presenciales en institutos o talleres
+- Ofrecer formación básica dentro del entorno de ciberseguridad con disponibilidad al alcance de todos.
+- Creación de plataforma multiplataformas(PC/Móviles) para noticias sobre actos delictivos en Internet.
+- Creación de campañas de concienciación a para todos los tipos de edades.
+- Implementación de charlas presenciales o no sobre lo más básico e ideal sobre ciberseguridad básica/avanzada
