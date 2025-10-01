@@ -9,10 +9,10 @@
 ---
   # 2º Sistemas Microinformáticos y Redes
 
-  ### **Unidad: 1**   
-  ### **Práctica Nº: 2**  
-  ### **Título: Informe de INCIBE**   
-  ### **Fecha: 29/09/2025**  
+  ### - **Unidad: 1**   
+  ### - **Práctica Nº: 2**  
+  ### - **Título: Informe de INCIBE**   
+  ### - **Fecha: 29/09/2025**  
 ---
 <br/>
 <br/>
