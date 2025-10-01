@@ -91,7 +91,7 @@ No, pero si alguno le sonaba de algo.
 
 ## Creéis que es de utilidad
 </Br>
-Sí, el Incibe es super útil porque nos proporciona el número 017 para alguna duda o emergencia sobre ciberseguridad, por otro lado, también alerta de fraudes y ataques con fines delictivos, ofrece guías y formación sobre el ámbito digital, es decir, actúa como un recurso oficial y práctico sobre Internet.
+Sí, el Incibe es super útil porque nos proporciona el número 017 para alguna duda o emergencia sobre ciberseguridad, por otro lado, también alerta de fraudes y ataques con fines delictivos, ofrece guías y formación sobre el ámbito digital, es decir, actúa como un recurso oficial y práctico sobre Internet y sus peligros.
 
 ## Qué mejoras propondrías en lo relacionado con el Incibe?
 </Br>
