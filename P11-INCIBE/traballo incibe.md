@@ -18,7 +18,7 @@
 <br/>
 <br/>
 
-## ¿Qué es el Incibe?
+## ¿Qué es el INCIBE?
   INCIBE o instituto nacional de ciberseguridad es uno de los equipos de respuesta de referencia ante incidentes que coordina con el resto de los equipos nacionales e internacionales para mejorar la eficacia en la lucha contra los delitos que involucran a las redes y sistemas de informacion reduciendo sus efectos en la seguridad publica tambien se dedica a fortalecer la confianza digital y promover la ciberseguridad para ciudadanos y empresas en España.
 
 <br/>
