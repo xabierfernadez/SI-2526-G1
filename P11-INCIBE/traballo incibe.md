@@ -85,10 +85,10 @@ Objetivo: Impulsar la innovación y cooperación internacional.
 
 Contenido: Iniciativas con universidades, membresías, colaboraciones con el sector TIC, y proyectos de I+D+i.
 
-# Valoración Crítica
+# Valoración Crítica Adam
 ## Lo conociais?
 </Br>
-No, pero si alguno le sonaba de algo.
+No mucho, pero saber si que sabía que era.
 
 ## Creéis que es de utilidad
 </Br>
