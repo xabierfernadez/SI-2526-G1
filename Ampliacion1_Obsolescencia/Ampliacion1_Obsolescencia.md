@@ -29,15 +29,25 @@
 
 # EN CONTRA
 
-# Índice
-## Seguridad informática
-## Responsabilidad compartida
-## Derecho a reparar
-## Diseño irreparable
-## Obsolescencia psicológica
-## Responsabilidad del consumidor
-## Privacidad y protección de datos
-## Impacto ambiental
+- [Adan David  Nezha Xabier](#adan-david--nezha-xabier)
+  - [2º Sistemas Microinformáticos y Redes](#2º-sistemas-microinformáticos-y-redes)
+    - [**Unidad: 2**](#unidad-2)
+    - [**Práctica Nº: 1**](#práctica-nº-1)
+    - [**Título: debate obsolescencia**](#título-debate-obsolescencia)
+    - [**Fecha: 10/11/25**](#fecha-101125)
+- [EN CONTRA](#en-contra)
+  - [impacto medioambiental](#impacto-medioambiental)
+  - [competitividad entre empresas](#competitividad-entre-empresas)
+  - [generacion de riqueza](#generacion-de-riqueza)
+  - [Obsolescencia psicológica](#obsolescencia-psicológica)
+  - [Responsabilidad del consumidor](#responsabilidad-del-consumidor)
+  - [Privacidad y protección de datos](#privacidad-y-protección-de-datos)
+  - [Impacto ambiental](#impacto-ambiental)
+  - [reciclaje de tecnologia](#reciclaje-de-tecnologia)
+  - [normativa y regulacion](#normativa-y-regulacion)
+  - [Casos reales](#casos-reales)
+  - [Innovación vs sustentabilidade](#innovación-vs-sustentabilidade)
+
 
 
 <br/>
@@ -99,3 +109,16 @@ comienza con la recogida y almacenamiento seguros de los residuos luego se separ
 la directiva de la UE 2005/29/CE considera practicas comerciales engañosas la inducción a sustituir productos prematuramente
 en españa el real decreto 110/2015 exige a los fabricantes de aparatos electronicos que los diseñen para prolongar su vida útil aunque no penaliza explícitamente la obsolescencia programada
 El Gobierno español está impulsando la Ley de Consumo Sostenible que incluira medidas como la prohibición de la publicidad de productos con obsolescencia programada la extensión de la garantía en caso de reparación y la obligación de ofrecer repuestos
+<br>
+<br>
+
+## Casos reales
+
+En 2017, la organización francesa (Halte à l’Obsolescence Programmée) presentó una denuncia contra Epson, acusándola de haber diseñado sus impresoras para bloquearse o dejar de funcionar cuando los cartuchos de tinta aún contenían tinta utilizable.
+
+<br>
+
+## Innovación vs sustentabilidade
+Debater se a innovación tecnolóxica xustifica o impacto ambiental e social que provoca a obsolescencia.
+
+La innovacion tecnologica no justifica el impacto social y ambiental que provoca la obsolescencia programada, ni economicamente, psicologicamente ni ambientalmente.
