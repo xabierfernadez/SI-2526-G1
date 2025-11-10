@@ -33,11 +33,11 @@
 ## Derecho a reparar
 ## Diseño irreparable
 
+<br/>
+<br/>
+<br/>
 
-
-
-
-# Seguridad informática: 
+## impacto medioambiental 
 
 la obsolescencia programada proboca la generacion masiva de residuos electronicos toxicos la sobreexplotacion de recursos naturales para fabricar nuevos productos y un aumento en los gases de efecto invernadero asociados a la produccion el transporte y la eliminacion de los productos
 <br/>
