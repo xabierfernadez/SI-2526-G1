@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://centros.edu.xunta.gal/iesloispenanovo/aulavirtual/course/view.php?id=460" target="_blank">
-    <img src="Imagenes/logo.jpg" alt="IES Lois Peña Novo" width="180"/>
+    <img src="imagenes/logo.jpg" alt="IES Lois Peña Novo" width="180"/>
   </a>
 </p>
 
