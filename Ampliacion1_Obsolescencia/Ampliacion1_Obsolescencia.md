@@ -52,17 +52,21 @@ las empresas diseñan productos que necesitan ser remplazados en un periodo dete
 
 ## generacion de riqueza
 las empresas diseñan productos con vida util limitada lo que lleva a los comsumidores a comprar dispositivos mas nuevos y modernos con mas frecuencia asegurando demanda constante y un flujo constante de ingresos
+<br/>
+<br/>
+<br/>
 
+## reciclaje de tecnologia
+comienza con la recogida y almacenamiento seguros de los residuos luego se separan los componentes peligrosos de los reutilizables y se trituran los restantes se separan por tipos y se recuperan para ser fundios o procesados finalizando con la preparacion para la reutilizacion en nuevos productos
+<br/>
+<br/>
+<br/>
 
+## normativa y regulacion
+la directiva de la UE 2005/29/CE considera practicas comerciales engañosas la inducción a sustituir productos prematuramente
+en españa el real decreto 110/2015 exige a los fabricantes de aparatos electronicos que los diseñen para prolongar su vida útil aunque no penaliza explícitamente la obsolescencia programada
+El Gobierno español está impulsando la Ley de Consumo Sostenible que incluira medidas como la prohibición de la publicidad de productos con obsolescencia programada la extensión de la garantía en caso de reparación y la obligación de ofrecer repuestos
+<br/>
+<br/>
+<br/>
 
-
-
-
-
-Obsolescencia psicolóxica: a publicidade e o cambio de modas fan que os consumidores perciban os produtos antigos como inservibles.
-
-Responsabilidade do consumidor: debater ata que punto somos responsables do consumo excesivo de tecnoloxía.
-
-Privacidade e protección de datos: os dispositivos antigos poden non ofrecer opcións modernas de cifrado ou control de permisos, comprometendo a seguridade da información.
-
-Impacto ambiental: os residuos electrónicos contribúen á contaminación e afectan especialmente a países pobres onde se envían os equipos descartados.
