@@ -39,6 +39,7 @@
 ## Privacidad y protección de datos
 ## Impacto ambiental
 
+
 <br/>
 <br/>
 <br/>
@@ -58,12 +59,9 @@ las empresas diseñan productos que necesitan ser remplazados en un periodo dete
 
 ## generacion de riqueza
 las empresas diseñan productos con vida util limitada lo que lleva a los comsumidores a comprar dispositivos mas nuevos y modernos con mas frecuencia asegurando demanda constante y un flujo constante de ingresos
-
-
-<br>
-<br>
-
-
+<br/>
+<br/>
+<br/>
 
 ## Obsolescencia psicológica
 
@@ -88,3 +86,16 @@ Nos hacen creer que necesitamos productos más modernos, los que tienen mayores 
 
 A la vez que se practica la obsolescencia programada, los residuos causados por esta se esparcen en vertederos, campos, rios, mares... No hay lugar físico donde almacenar tal cantidad de residuos causados por tirar a la basura productos funcionales.
 
+<br>
+<br>
+
+## reciclaje de tecnologia
+comienza con la recogida y almacenamiento seguros de los residuos luego se separan los componentes peligrosos de los reutilizables y se trituran los restantes se separan por tipos y se recuperan para ser fundios o procesados finalizando con la preparacion para la reutilizacion en nuevos productos
+<br/>
+<br/>
+<br/>
+
+## normativa y regulacion
+la directiva de la UE 2005/29/CE considera practicas comerciales engañosas la inducción a sustituir productos prematuramente
+en españa el real decreto 110/2015 exige a los fabricantes de aparatos electronicos que los diseñen para prolongar su vida útil aunque no penaliza explícitamente la obsolescencia programada
+El Gobierno español está impulsando la Ley de Consumo Sostenible que incluira medidas como la prohibición de la publicidad de productos con obsolescencia programada la extensión de la garantía en caso de reparación y la obligación de ofrecer repuestos
