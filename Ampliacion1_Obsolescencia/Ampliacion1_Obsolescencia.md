@@ -52,3 +52,17 @@ las empresas diseñan productos que necesitan ser remplazados en un periodo dete
 
 ## generacion de riqueza
 las empresas diseñan productos con vida util limitada lo que lleva a los comsumidores a comprar dispositivos mas nuevos y modernos con mas frecuencia asegurando demanda constante y un flujo constante de ingresos
+
+
+
+
+
+
+
+Obsolescencia psicolóxica: a publicidade e o cambio de modas fan que os consumidores perciban os produtos antigos como inservibles.
+
+Responsabilidade do consumidor: debater ata que punto somos responsables do consumo excesivo de tecnoloxía.
+
+Privacidade e protección de datos: os dispositivos antigos poden non ofrecer opcións modernas de cifrado ou control de permisos, comprometendo a seguridade da información.
+
+Impacto ambiental: os residuos electrónicos contribúen á contaminación e afectan especialmente a países pobres onde se envían os equipos descartados.
