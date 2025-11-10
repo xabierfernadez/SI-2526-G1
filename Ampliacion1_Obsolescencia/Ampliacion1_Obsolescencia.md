@@ -27,11 +27,17 @@
 
 ---
 
+# EN CONTRA
+
 # Índice
 ## Seguridad informática
 ## Responsabilidad compartida
 ## Derecho a reparar
 ## Diseño irreparable
+## Obsolescencia psicológica
+## Responsabilidad del consumidor
+## Privacidad y protección de datos
+## Impacto ambiental
 
 <br/>
 <br/>
@@ -54,15 +60,31 @@ las empresas diseñan productos que necesitan ser remplazados en un periodo dete
 las empresas diseñan productos con vida util limitada lo que lleva a los comsumidores a comprar dispositivos mas nuevos y modernos con mas frecuencia asegurando demanda constante y un flujo constante de ingresos
 
 
+<br>
+<br>
 
 
 
+## Obsolescencia psicológica
+
+El hecho de que hagan publicidad a base de la obsolescencia, hace que los consumidores acaben normalizando comprar nuevos productos cuando los que poseen aún funcionan perfectamente. Esto causa que los consumidores gasten más de lo necesario y se fabriquen productos ligeramente mejores a los anteriores solamente para vender más.
+
+<br>
+
+## Responsabilidad del consumidor
+
+Somos responsables cuando no compramos sin necesidad. A la hora de ir de compras, debemos analizar que cosas necesitamos y cuales no. Es importante no querer tener siempre lo último de lo último y centrarse en que las cosas que tenemos seguramente aún no necesiten reemplazo.
 
 
-Obsolescencia psicolóxica: a publicidade e o cambio de modas fan que os consumidores perciban os produtos antigos como inservibles.
+<br>
 
-Responsabilidade do consumidor: debater ata que punto somos responsables do consumo excesivo de tecnoloxía.
+## Privacidad y protección de datos
 
-Privacidade e protección de datos: os dispositivos antigos poden non ofrecer opcións modernas de cifrado ou control de permisos, comprometendo a seguridade da información.
+Nos hacen creer que necesitamos productos más modernos, los que tienen mayores opciones para que se filtren nuestros datos privados e información sensible. Dicen que tienen mayores medidas de seguridad, y eso no lo dudo, pero lo que tampoco dudo es que a mayor recopilación de datos, mayor cantidad de datos filtrados a la hora de un ataque, porque como todos sabemos, ningún sistema informático es 100% seguro. 
 
-Impacto ambiental: os residuos electrónicos contribúen á contaminación e afectan especialmente a países pobres onde se envían os equipos descartados.
+<br>
+
+## Impacto ambiental
+
+A la vez que se practica la obsolescencia programada, los residuos causados por esta se esparcen en vertederos, campos, rios, mares... No hay lugar físico donde almacenar tal cantidad de residuos causados por tirar a la basura productos funcionales.
+
