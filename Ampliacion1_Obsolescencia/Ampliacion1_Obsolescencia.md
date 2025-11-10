@@ -28,6 +28,10 @@
 ---
 
 # Índice
+## Seguridad informática
+## Responsabilidad compartida
+## Derecho a reparar
+## Diseño irreparable
 
 
 
