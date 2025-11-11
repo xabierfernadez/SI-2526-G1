@@ -59,29 +59,38 @@
 <br/>
 
 
-# Seguridad informática: 
+## Seguridad informática: 
 Los productos nacen con vida útil limitada, desde elegir materiales que se desgastan rápido, hasta actualizaciones del software que lo vuelven lento o directamente incompatible, el objetivo es claro, incentivar que compres más seguido, y así generar más ingresos para las marcas.
 Riesgo colectivo: Un solo dispositivo vulnerable puede comprometer redes enteras, especialmente en entornos empresariales o domésticos conectados.
+<br/>
+<br/>
+<br/>
 
 
-
-# Responsabilidad compartida:
+## Responsabilidad compartida:
 Fabricantes: Tienen la responsabilidad ética de diseñar productos duraderos, actualizables y reparables.
+
 Los usuarios:Deben adoptar hábitos de consumo responsable, evitando el reemplazo innecesario por moda o marketing.
+<br/>
+<br/>
+<br/>
 
 
-
-# Derecho a reparar:
+## Derecho a reparar:
 La obsolescencia programada dificulta la reparación de los productos, lo que obliga a los consumidores a comprar nuevos en lugar de arreglar los antiguos.
 Muchos fabricantes impiden el acceso a piezas, manuales o software necesario para reparar.
 El impacto social: Esto afecta especialmente a comunidades con menos recursos, que no pueden reemplazar fácilmente sus dispositivos.
 
+<br/>
+<br/>
+<br/>
 
-
-# Diseño irreparable:
+## Diseño irreparable:
 Los consumidores se ven obligados a gastar dinero en reparaciones o a adquirir nuevos productos de forma más frecuente y 
 aunque el dispositivo funcione, se vuelve inutilizable o demasiado costoso de reparar.
-
+<br/>
+<br/>
+<br/>
 
 ## impacto medioambiental 
 
