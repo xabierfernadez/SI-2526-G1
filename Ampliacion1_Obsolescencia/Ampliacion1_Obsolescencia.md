@@ -36,28 +36,50 @@
     - [**Título: debate obsolescencia**](#título-debate-obsolescencia)
     - [**Fecha: 10/11/25**](#fecha-101125)
 - [EN CONTRA](#en-contra)
-- [Seguridad informática:](#seguridad-informática)
-- [Responsabilidad compartida:](#responsabilidad-compartida)
-- [Derecho a reparar:](#derecho-a-reparar)
-- [Diseño irreparable:](#diseño-irreparable)
-  - [impacto medioambiental](#impacto-medioambiental)
-  - [competitividad entre empresas](#competitividad-entre-empresas)
-  - [generacion de riqueza](#generacion-de-riqueza)
+  - [Impacto medioambiental](#impacto-medioambiental)
+  - [Competitividad entre empresas](#competitividad-entre-empresas)
+  - [Generacion de riqueza](#generacion-de-riqueza)
   - [Obsolescencia psicológica](#obsolescencia-psicológica)
+  - [Seguridad informática:](#seguridad-informática)
+  - [Responsabilidad compartida:](#responsabilidad-compartida)
+  - [Derecho a reparar:](#derecho-a-reparar)
+  - [Diseño irreparable:](#diseño-irreparable)
   - [Responsabilidad del consumidor](#responsabilidad-del-consumidor)
   - [Privacidad y protección de datos](#privacidad-y-protección-de-datos)
   - [Impacto ambiental](#impacto-ambiental)
-  - [reciclaje de tecnologia](#reciclaje-de-tecnologia)
-  - [normativa y regulacion](#normativa-y-regulacion)
+  - [Reciclaje de tecnologia](#reciclaje-de-tecnologia)
+  - [Normativa y regulacion](#normativa-y-regulacion)
   - [Casos reales](#casos-reales)
   - [Innovación vs sustentabilidade](#innovación-vs-sustentabilidade)
 
-
-
 <br/>
 <br/>
 <br/>
 
+## impacto medioambiental 
+
+la obsolescencia programada proboca la generacion masiva de residuos electronicos toxicos la sobreexplotacion de recursos naturales para fabricar nuevos productos y un aumento en los gases de efecto invernadero asociados a la produccion el transporte y la eliminacion de los productos
+<br/>
+<br/>
+<br/>
+
+## competitividad entre empresas
+las empresas diseñan productos que necesitan ser remplazados en un periodo determinado generando ingresos continuos y asegurando la demanda 
+<br/>
+<br/>
+<br/>
+
+## generacion de riqueza
+las empresas diseñan productos con vida util limitada lo que lleva a los comsumidores a comprar dispositivos mas nuevos y modernos con mas frecuencia asegurando demanda constante y un flujo constante de ingresos
+<br/>
+<br/>
+<br/>
+
+## Obsolescencia psicológica
+
+El hecho de que hagan publicidad a base de la obsolescencia, hace que los consumidores acaben normalizando comprar nuevos productos cuando los que poseen aún funcionan perfectamente. Esto causa que los consumidores gasten más de lo necesario y se fabriquen productos ligeramente mejores a los anteriores solamente para vender más.
+
+<br>
 
 ## Seguridad informática: 
 Los productos nacen con vida útil limitada, desde elegir materiales que se desgastan rápido, hasta actualizaciones del software que lo vuelven lento o directamente incompatible, el objetivo es claro, incentivar que compres más seguido, y así generar más ingresos para las marcas.
@@ -92,30 +114,10 @@ aunque el dispositivo funcione, se vuelve inutilizable o demasiado costoso de re
 <br/>
 <br/>
 
-## impacto medioambiental 
+###  Responsabilidad del consumidor : Nezha
+La obsolescencia programada no es solo una estrategia empresarial: es también una consecuencia de nuestras decisiones como consumidores.
+Actuar con responsabilidad es un acto de resistencia ética, ecológica y económica. Al cambiar nuestros hábitos, podemos influir en el mercado y exigir productos más justos, duraderos y sostenibles.
 
-la obsolescencia programada proboca la generacion masiva de residuos electronicos toxicos la sobreexplotacion de recursos naturales para fabricar nuevos productos y un aumento en los gases de efecto invernadero asociados a la produccion el transporte y la eliminacion de los productos
-<br/>
-<br/>
-<br/>
-
-## competitividad entre empresas
-las empresas diseñan productos que necesitan ser remplazados en un periodo determinado generando ingresos continuos y asegurando la demanda 
-<br/>
-<br/>
-<br/>
-
-## generacion de riqueza
-las empresas diseñan productos con vida util limitada lo que lleva a los comsumidores a comprar dispositivos mas nuevos y modernos con mas frecuencia asegurando demanda constante y un flujo constante de ingresos
-<br/>
-<br/>
-<br/>
-
-## Obsolescencia psicológica
-
-El hecho de que hagan publicidad a base de la obsolescencia, hace que los consumidores acaben normalizando comprar nuevos productos cuando los que poseen aún funcionan perfectamente. Esto causa que los consumidores gasten más de lo necesario y se fabriquen productos ligeramente mejores a los anteriores solamente para vender más.
-
-<br>
 
 ## Responsabilidad del consumidor
 
