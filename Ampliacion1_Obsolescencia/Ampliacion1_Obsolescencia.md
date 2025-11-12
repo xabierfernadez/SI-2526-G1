@@ -35,19 +35,19 @@
     - [**Práctica Nº: 1**](#práctica-nº-1)
     - [**Título: debate obsolescencia**](#título-debate-obsolescencia)
     - [**Fecha: 10/11/25**](#fecha-101125)
-- [Seguridad informática:](#seguridad-informática)
-- [Responsabilidad compartida:](#responsabilidad-compartida)
-- [Derecho a reparar:](#derecho-a-reparar)
-- [Diseño irreparable:](#diseño-irreparable)
 - [Impacto medioambiental:](#impacto-medioambiental)
 - [Competitividad entre empresas:](#competitividad-entre-empresas)
 - [Generacion de riqueza:](#generacion-de-riqueza)
 - [Obsolescencia psicológica:](#obsolescencia-psicológica)
+- [Seguridad informática:](#seguridad-informática)
+- [Responsabilidad compartida:](#responsabilidad-compartida)
+- [Derecho a reparar:](#derecho-a-reparar)
+- [Diseño irreparable:](#diseño-irreparable)
+- [Responsabilidad del consumidor : Nezha](#responsabilidad-del-consumidor--nezha)
 - [Seguridad informática:](#seguridad-informática-1)
 - [Responsabilidad compartida:](#responsabilidad-compartida-1)
 - [Derecho a reparar:](#derecho-a-reparar-1)
 - [Diseño irreparable:](#diseño-irreparable-1)
-- [Responsabilidad del consumidor : Nezha](#responsabilidad-del-consumidor--nezha)
 - [Responsabilidad del consumidor: David](#responsabilidad-del-consumidor-david)
 - [Privacidad y protección de datos:](#privacidad-y-protección-de-datos)
 - [Impacto ambiental:](#impacto-ambiental)
@@ -61,31 +61,6 @@
 <br/>
 <br/>
 
-
-# Seguridad informática: 
-Los productos nacen con vida útil limitada, desde elegir materiales que se desgastan rápido, hasta actualizaciones del software que lo vuelven lento o directamente incompatible, el objetivo es claro, incentivar que compres más seguido, y así generar más ingresos para las marcas.
-Riesgo colectivo: Un solo dispositivo vulnerable puede comprometer redes enteras, especialmente en entornos empresariales o domésticos conectados.
-
-<br>
-
-# Responsabilidad compartida:
-Fabricantes: Tienen la responsabilidad ética de diseñar productos duraderos, actualizables y reparables.
-Los usuarios:Deben adoptar hábitos de consumo responsable, evitando el reemplazo innecesario por moda o marketing.
-
-<br>
-
-# Derecho a reparar:
-La obsolescencia programada dificulta la reparación de los productos, lo que obliga a los consumidores a comprar nuevos en lugar de arreglar los antiguos.
-Muchos fabricantes impiden el acceso a piezas, manuales o software necesario para reparar.
-El impacto social: Esto afecta especialmente a comunidades con menos recursos, que no pueden reemplazar fácilmente sus dispositivos.
-
-<br>
-
-# Diseño irreparable:
-Los consumidores se ven obligados a gastar dinero en reparaciones o a adquirir nuevos productos de forma más frecuente y 
-aunque el dispositivo funcione, se vuelve inutilizable o demasiado costoso de reparar.
-
-<br>
 
 # Impacto medioambiental:
 La obsolescencia programada proboca la generacion masiva de residuos electronicos toxicos la sobreexplotacion de recursos naturales para fabricar nuevos productos y un aumento en los gases de efecto invernadero asociados a la produccion el transporte y la eliminacion de los productos
@@ -111,6 +86,37 @@ El hecho de que hagan publicidad a base de la obsolescencia, hace que los consum
 Los productos nacen con vida útil limitada, desde elegir materiales que se desgastan rápido, hasta actualizaciones del software que lo vuelven lento o directamente incompatible, el objetivo es claro, incentivar que compres más seguido, y así generar más ingresos para las marcas.
 Riesgo colectivo: Un solo dispositivo vulnerable puede comprometer redes enteras, especialmente en entornos empresariales o domésticos conectados.
 
+<br>
+
+# Responsabilidad compartida:
+Fabricantes: Tienen la responsabilidad ética de diseñar productos duraderos, actualizables y reparables.
+Los usuarios:Deben adoptar hábitos de consumo responsable, evitando el reemplazo innecesario por moda o marketing.
+
+<br>
+
+# Derecho a reparar:
+La obsolescencia programada dificulta la reparación de los productos, lo que obliga a los consumidores a comprar nuevos en lugar de arreglar los antiguos.
+Muchos fabricantes impiden el acceso a piezas, manuales o software necesario para reparar.
+El impacto social: Esto afecta especialmente a comunidades con menos recursos, que no pueden reemplazar fácilmente sus dispositivos.
+
+<br>
+
+# Diseño irreparable:
+Los consumidores se ven obligados a gastar dinero en reparaciones o a adquirir nuevos productos de forma más frecuente y 
+aunque el dispositivo funcione, se vuelve inutilizable o demasiado costoso de reparar.
+
+<br>
+
+#  Responsabilidad del consumidor : Nezha
+La obsolescencia programada no es solo una estrategia empresarial: es también una consecuencia de nuestras decisiones como consumidores.
+Actuar con responsabilidad es un acto de resistencia ética, ecológica y económica. Al cambiar nuestros hábitos, podemos influir en el mercado y exigir productos más justos, duraderos y sostenibles.
+
+<br>
+
+# Seguridad informática: 
+Los productos nacen con vida útil limitada, desde elegir materiales que se desgastan rápido, hasta actualizaciones del software que lo vuelven lento o directamente incompatible, el objetivo es claro, incentivar que compres más seguido, y así generar más ingresos para las marcas.
+Riesgo colectivo: Un solo dispositivo vulnerable puede comprometer redes enteras, especialmente en entornos empresariales o domésticos conectados.
+
 <br/>
 
 # Responsabilidad compartida:
@@ -130,12 +136,6 @@ El impacto social: Esto afecta especialmente a comunidades con menos recursos, q
 # Diseño irreparable:
 Los consumidores se ven obligados a gastar dinero en reparaciones o a adquirir nuevos productos de forma más frecuente y 
 aunque el dispositivo funcione, se vuelve inutilizable o demasiado costoso de reparar.
-
-<br/>
-
-#  Responsabilidad del consumidor : Nezha
-La obsolescencia programada no es solo una estrategia empresarial: es también una consecuencia de nuestras decisiones como consumidores.
-Actuar con responsabilidad es un acto de resistencia ética, ecológica y económica. Al cambiar nuestros hábitos, podemos influir en el mercado y exigir productos más justos, duraderos y sostenibles.
 
 <br>
 
