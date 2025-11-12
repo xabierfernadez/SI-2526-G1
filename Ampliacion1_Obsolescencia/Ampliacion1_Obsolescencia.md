@@ -38,10 +38,11 @@
 - [Impacto medioambiental:](#impacto-medioambiental)
 - [Competitividad entre empresas:](#competitividad-entre-empresas)
 - [Generacion de riqueza:](#generacion-de-riqueza)
-- [Seguridad informática:](#seguridad-informática)
-- [Responsabilidad compartida:](#responsabilidad-compartida)
-- [Derecho a reparar:](#derecho-a-reparar)
-- [Diseño irreparable:](#diseño-irreparable)
+- [Responsabilidad del consumidor : Xabier](#responsabilidad-del-consumidor--xabier)
+- [Seguridad informática: Nezha](#seguridad-informática-nezha)
+- [Responsabilidad compartida:Nezha](#responsabilidad-compartidanezha)
+- [Derecho a reparar:Nezha](#derecho-a-repararnezha)
+- [Diseño irreparable:Nezha](#diseño-irreparablenezha)
 - [Responsabilidad del consumidor : Nezha](#responsabilidad-del-consumidor--nezha)
 - [Obsolescencia psicológica: David](#obsolescencia-psicológica-david)
 - [Privacidad y protección de datos: David](#privacidad-y-protección-de-datos-david)
@@ -51,6 +52,7 @@
 - [Normativa y regulacion: Xabier](#normativa-y-regulacion-xabier)
 - [Casos reales: David](#casos-reales-david)
 - [Innovación vs sustentabilidad: David](#innovación-vs-sustentabilidad-david)
+- [Responsabilidad del consumidor : Adan](#responsabilidad-del-consumidor--adan)
 
 
 <br/>
@@ -58,7 +60,7 @@
 <br/>
 
 
-# Impacto medioambiental:
+# Impacto medioambiental: 
 La obsolescencia programada proboca la generacion masiva de residuos electronicos toxicos la sobreexplotacion de recursos naturales para fabricar nuevos productos y un aumento en los gases de efecto invernadero asociados a la produccion el transporte y la eliminacion de los productos
 
 <br/>
@@ -68,31 +70,35 @@ Las empresas diseñan productos que necesitan ser remplazados en un periodo dete
 
 <br/>
 
-# Generacion de riqueza:
+# Generacion de riqueza: 
 Las empresas diseñan productos con vida util limitada lo que lleva a los comsumidores a comprar dispositivos mas nuevos y modernos con mas frecuencia asegurando demanda constante y un flujo constante de ingresos
 
 <br/>
 
-# Seguridad informática: 
+# Responsabilidad del consumidor : Xabier
+
+<br>
+
+# Seguridad informática: Nezha
 Los productos nacen con vida útil limitada, desde elegir materiales que se desgastan rápido, hasta actualizaciones del software que lo vuelven lento o directamente incompatible, el objetivo es claro, incentivar que compres más seguido, y así generar más ingresos para las marcas.
 Riesgo colectivo: Un solo dispositivo vulnerable puede comprometer redes enteras, especialmente en entornos empresariales o domésticos conectados.
 
 <br>
 
-# Responsabilidad compartida:
+# Responsabilidad compartida:Nezha
 Fabricantes: Tienen la responsabilidad ética de diseñar productos duraderos, actualizables y reparables.
 Los usuarios:Deben adoptar hábitos de consumo responsable, evitando el reemplazo innecesario por moda o marketing.
 
 <br>
 
-# Derecho a reparar:
+# Derecho a reparar:Nezha
 La obsolescencia programada dificulta la reparación de los productos, lo que obliga a los consumidores a comprar nuevos en lugar de arreglar los antiguos.
 Muchos fabricantes impiden el acceso a piezas, manuales o software necesario para reparar.
 El impacto social: Esto afecta especialmente a comunidades con menos recursos, que no pueden reemplazar fácilmente sus dispositivos.
 
 <br>
 
-# Diseño irreparable:
+# Diseño irreparable:Nezha
 Los consumidores se ven obligados a gastar dinero en reparaciones o a adquirir nuevos productos de forma más frecuente y 
 aunque el dispositivo funcione, se vuelve inutilizable o demasiado costoso de reparar.
 
@@ -132,7 +138,7 @@ comienza con la recogida y almacenamiento seguros de los residuos luego se separ
 # Normativa y regulacion: Xabier
 la directiva de la UE 2005/29/CE considera practicas comerciales engañosas la inducción a sustituir productos prematuramente
 en españa el real decreto 110/2015 exige a los fabricantes de aparatos electronicos que los diseñen para prolongar su vida útil aunque no penaliza explícitamente la obsolescencia programada
-El Gobierno español está impulsando la Ley de Consumo Sostenible que incluira medidas como la prohibición de la publicidad de productos con obsolescencia programada la extensión de la garantía en caso de reparación y la obligación de ofrecer repuestos
+El Gobierno español está impulsando la Ley de Consumo Sostenible que incluira medidas como la prohibición de la publicidad de productos con obsolescencia programada la extensión de la garantía en caso de reparación y la obligación de ofrecer repuestos.
 
 <br>
 
@@ -145,6 +151,10 @@ En 2017, la organización francesa (Halte à l’Obsolescence Programmée) prese
 La innovacion tecnologica no justifica el impacto social y ambiental que provoca la obsolescencia programada, ni economicamente, psicologicamente ni ambientalmente.
 
 La obsolescencia programada nos "obliga" a producir enormes cantidades de residuos, lo cual es muy contaminande ecológicamente.
+
+<br>
+
+#  Responsabilidad del consumidor : Adan
 
 
 
