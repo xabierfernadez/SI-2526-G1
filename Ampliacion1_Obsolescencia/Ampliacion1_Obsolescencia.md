@@ -100,7 +100,7 @@ El impacto social: Esto afecta especialmente a comunidades con menos recursos, q
 # Diseño irreparable:Nezha
 Los consumidores se ven obligados a gastar dinero en reparaciones o a adquirir nuevos productos de forma más frecuente y 
 aunque el dispositivo funcione, se vuelve inutilizable o demasiado costoso de reparar.
-
+Forzar al consumidor a reemplazar el producto en lugar de repararlo, aumentando las ventas.
 <br>
 
 #  Responsabilidad del consumidor : Nezha
