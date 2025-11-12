@@ -35,9 +35,9 @@
     - [**Práctica Nº: 1**](#práctica-nº-1)
     - [**Título: debate obsolescencia**](#título-debate-obsolescencia)
     - [**Fecha: 10/11/25**](#fecha-101125)
-- [Impacto medioambiental:](#impacto-medioambiental)
-- [Competitividad entre empresas:](#competitividad-entre-empresas)
-- [Generacion de riqueza:](#generacion-de-riqueza)
+- [Impacto medioambiental: Xabier](#impacto-medioambiental-xabier)
+- [Competitividad entre empresas: Xabier](#competitividad-entre-empresas-xabier)
+- [Generacion de riqueza: Xabier](#generacion-de-riqueza-xabier)
 - [Responsabilidad del consumidor : Xabier](#responsabilidad-del-consumidor--xabier)
 - [Seguridad informática: Nezha](#seguridad-informática-nezha)
 - [Responsabilidad compartida:Nezha](#responsabilidad-compartidanezha)
@@ -60,17 +60,17 @@
 <br/>
 
 
-# Impacto medioambiental: 
+# Impacto medioambiental: Xabier
 La obsolescencia programada proboca la generacion masiva de residuos electronicos toxicos la sobreexplotacion de recursos naturales para fabricar nuevos productos y un aumento en los gases de efecto invernadero asociados a la produccion el transporte y la eliminacion de los productos
 
 <br/>
 
-# Competitividad entre empresas:
+# Competitividad entre empresas: Xabier
 Las empresas diseñan productos que necesitan ser remplazados en un periodo determinado generando ingresos continuos y asegurando la demanda 
 
 <br/>
 
-# Generacion de riqueza: 
+# Generacion de riqueza: Xabier
 Las empresas diseñan productos con vida util limitada lo que lleva a los comsumidores a comprar dispositivos mas nuevos y modernos con mas frecuencia asegurando demanda constante y un flujo constante de ingresos
 
 <br/>
