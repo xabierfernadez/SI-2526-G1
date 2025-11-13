@@ -61,21 +61,22 @@
 
 
 # Impacto medioambiental: Xabier
-La obsolescencia programada proboca la generacion masiva de residuos electronicos toxicos la sobreexplotacion de recursos naturales para fabricar nuevos productos y un aumento en los gases de efecto invernadero asociados a la produccion el transporte y la eliminacion de los productos
+La obsolescencia programada proboca la generacion masiva de residuos electronicos toxicos la sobreexplotacion de recursos naturales para fabricar nuevos productos  un aumento en los gases de efecto invernadero asociados a la produccion el transporte  la eliminacion de los productos saturacion de los vertederos y dificultad para reciclar componentes complejos o contaminantes y el aumento de la huella de carbono
 
 <br/>
 
 # Competitividad entre empresas: Xabier
-Las empresas diseñan productos que necesitan ser remplazados en un periodo determinado generando ingresos continuos y asegurando la demanda 
+Las empresas diseñan productos que necesitan ser remplazados en un periodo determinado generando ingresos continuos y asegurando la demanda y generando desconfianza en el consumidor que cada vez busca productos mas duraderos y sostenibles tambien supone un coste reputacional en sectores como la electronica
 
 <br/>
 
 # Generacion de riqueza: Xabier
-Las empresas diseñan productos con vida util limitada lo que lleva a los comsumidores a comprar dispositivos mas nuevos y modernos con mas frecuencia asegurando demanda constante y un flujo constante de ingresos
+Las empresas diseñan productos con vida util limitada lo que lleva a los comsumidores a comprar dispositivos mas nuevos y modernos con mas frecuencia asegurando demanda constante y un flujo constante de ingresos desincentiva la innovacion real porque prioriza el diseño para el descarte sobre la mejora funcional impone costes ocultos al consumidor y al medio ambiente que no se ven reflejados en el coste final del producto
 
 <br/>
 
 # Responsabilidad del consumidor : Xabier
+el consumidor tiene una responsabilidad clave en la obsolescencia programada por la nececidad de las personas de comprar productos un poco mas nuevos cuando los anteriores un se podrian seguir utilizando
 
 <br>
 
