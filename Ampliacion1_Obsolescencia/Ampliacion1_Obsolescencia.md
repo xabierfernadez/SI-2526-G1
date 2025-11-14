@@ -81,33 +81,38 @@ el consumidor tiene una responsabilidad clave en la obsolescencia programada por
 <br>
 
 # Seguridad informática: Nezha
-Los productos nacen con vida útil limitada, desde elegir materiales que se desgastan rápido, hasta actualizaciones del software que lo vuelven lento o directamente incompatible, el objetivo es claro, incentivar que compres más seguido, y así generar más ingresos para las marcas.
-Riesgo colectivo: Un solo dispositivo vulnerable puede comprometer redes enteras, especialmente en entornos empresariales o domésticos conectados.
+Los dispositivos que se vuelven obsoletos demasiado rápido dejan de recibir actualizaciones de seguridad,esto expone a los usuarios a ciberataques, robo de datos y vulnerabilidades.
+La obsolescencia programada no solo afecta al bolsillo, también pone en riesgo la confianza digital y la protección de la información personal.
 
 <br>
 
 # Responsabilidad compartida:Nezha
-Fabricantes: Tienen la responsabilidad ética de diseñar productos duraderos, actualizables y reparables.
-Los usuarios:Deben adoptar hábitos de consumo responsable, evitando el reemplazo innecesario por moda o marketing.
+Los fabricantes, gobiernos y consumidores deben compartir la responsabilidad de mantener los productos seguros y útiles,si las empresas diseñan productos para fallar pronto, están rompiendo ese pacto social y trasladando el problema al consumidor.
+La obsolescencia programada contradice la idea de responsabilidad compartida, porque solo beneficia al fabricante.
 
 <br>
 
 # Derecho a reparar:Nezha
 La obsolescencia programada dificulta la reparación de los productos, lo que obliga a los consumidores a comprar nuevos en lugar de arreglar los antiguos.
 Muchos fabricantes impiden el acceso a piezas, manuales o software necesario para reparar.
-El impacto social: Esto afecta especialmente a comunidades con menos recursos, que no pueden reemplazar fácilmente sus dispositivos.
+Los usuarios deberían poder reparar sus dispositivos sin trabas legales o técnicas.
+Defender el derecho a reparar es defender la libertad del consumidor y reducir el impacto ambiental.
 
 <br>
 
 # Diseño irreparable:Nezha
 Los consumidores se ven obligados a gastar dinero en reparaciones o a adquirir nuevos productos de forma más frecuente y 
 aunque el dispositivo funcione, se vuelve inutilizable o demasiado costoso de reparar.
-Forzar al consumidor a reemplazar el producto en lugar de repararlo, aumentando las ventas.
+Muchos productos se diseñan para ser difíciles o imposibles de reparar: baterías selladas, piezas pegadas, tornillos especiales.
+Esto no es casualidad, es parte de la estrategia de obsolescencia programada.
+Un diseño irreparable obliga a comprar un nuevo dispositivo, lo que genera más residuos electrónicos y más gasto para el consumidor.
+
 <br>
 
 #  Responsabilidad del consumidor : Nezha
-La obsolescencia programada no es solo una estrategia empresarial: es también una consecuencia de nuestras decisiones como consumidores.
-Actuar con responsabilidad es un acto de resistencia ética, ecológica y económica. Al cambiar nuestros hábitos, podemos influir en el mercado y exigir productos más justos, duraderos y sostenibles.
+Es cierto que los consumidores también tienen responsabilidad: elegir productos duraderos, exigir transparencia y apoyar marcas que respeten el derecho a reparar.
+Pero esa responsabilidad no puede ser excusa para que las empresas diseñen productos desechables.
+El consumidor no tiene el mismo poder que el fabricante, por eso es clave exigir leyes que regulen estas prácticas.
 
 <br>
 
@@ -150,7 +155,6 @@ En 2017, la organización francesa (Halte à l’Obsolescence Programmée) prese
 
 # Innovación vs sustentabilidad: David
 La innovacion tecnologica no justifica el impacto social y ambiental que provoca la obsolescencia programada, ni economicamente, psicologicamente ni ambientalmente.
-
 La obsolescencia programada nos "obliga" a producir enormes cantidades de residuos, lo cual es muy contaminande ecológicamente.
 
 <br>
