@@ -29,13 +29,7 @@
 
 # EN CONTRA
 
-- [Adan David  Nezha Xabier](#adan-david--nezha-xabier)
-  - [2º Sistemas Microinformáticos y Redes](#2º-sistemas-microinformáticos-y-redes)
-    - [**Unidad: 2**](#unidad-2)
-    - [**Práctica Nº: 1**](#práctica-nº-1)
-    - [**Título: debate obsolescencia**](#título-debate-obsolescencia)
-    - [**Fecha: 10/11/25**](#fecha-101125)
-- [EN CONTRA](#en-contra)
+
 - [Seguridad informática:](#seguridad-informática)
 - [Responsabilidad compartida:](#responsabilidad-compartida)
 - [Derecho a reparar:](#derecho-a-reparar)
@@ -92,6 +86,7 @@ aunque el dispositivo funcione, se vuelve inutilizable o demasiado costoso de re
 <br/>
 <br/>
 
+---
 ## impacto medioambiental 
 
 la obsolescencia programada proboca la generacion masiva de residuos electronicos toxicos la sobreexplotacion de recursos naturales para fabricar nuevos productos y un aumento en los gases de efecto invernadero asociados a la produccion el transporte y la eliminacion de los productos
