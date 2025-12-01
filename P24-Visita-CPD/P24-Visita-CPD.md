@@ -146,8 +146,7 @@ En cuanto a la limpieza, es fácil de limpiar por todos lados exceptuando uno, q
 Un ambiente desordenado puede dificultar la evacuación en caso de emergencia ya que las zonas de paso y salida pueden estar obstruidas, Además la limpieza regular es esencial para mantener condiciones higiénicas adecuadas y prevenir accedentes.
 Un CPD bien organizado y limpio no solo mejora la seguridad sino que también contribuye a un entorno laboral agradable.
 
-<br>
-<br>
+<div style="page-break-after: always;"></div>
 
 # Conclusiones
 
@@ -156,7 +155,7 @@ Un CPD bien organizado y limpio no solo mejora la seguridad sino que también co
 Teniendo en cuenta los datos vistos, y el propósito del CPD (un servidor y cosas del centro), no requiere realmente de muchos elementos de seguridad a mayores de los que ya tiene.
 Marcaría como importante la incidencia de la probabilidad de inundación, ya que el CPD se encuentra encima de un sistema de cañerias debido al baño que hay en el piso de arriba y en caso de fuga podría quedar completamente inutilizable.
 
-<div style="page-break-after: always;"></div>
+
 
 Ficha de Evaluación de Riesgos - Seguridad Física y Ambiental
 
