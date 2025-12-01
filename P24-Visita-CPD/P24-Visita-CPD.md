@@ -117,8 +117,13 @@ El armario contaba con cerraduras de llave, tanto en la parte posterior, como en
 
 <br>
 
+## Existencia de SAI o protección eléctrica
 
+Hay un SAI, se consedera como la primera línea de defensa, Su capacidad para ofrecer suministro energético temporal y controlado no solo evita caídas bruscas, sino que permite una gestión ordenada del apagado de sistemas, protege equipos sensibles y, sobre todo, asegura que las operaciones continúen sin sobresaltos. asegura la continuidad del suministro eléctrico a los equipos críticos en caso de un corte de energía.
 
+## Orden y limpieza: ¿facilita o dificulta la evacuación y el mantenimiento?
+
+Un ambiente desordenado puede dificultar la evacuación en caso de emergencia ya que las zonas de paso y salida pueden estar obstruidas, Además la limpieza regular es esencial para mantener condiciones higiénicas adecuadas y prevenir accedentes.Un CPD bien organizado y limpio no solo mejora la seguridad sino que también contribuye a un entorno laboral agradable.
 
 
 
