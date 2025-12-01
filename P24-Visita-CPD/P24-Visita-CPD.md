@@ -155,7 +155,10 @@ Un CPD bien organizado y limpio no solo mejora la seguridad sino que también co
 Teniendo en cuenta los datos vistos, y el propósito del CPD (un servidor y cosas del centro), no requiere realmente de muchos elementos de seguridad a mayores de los que ya tiene.
 Marcaría como importante la incidencia de la probabilidad de inundación, ya que el CPD se encuentra encima de un sistema de cañerias debido al baño que hay en el piso de arriba y en caso de fuga podría quedar completamente inutilizable.
 
+<br>
+<br>
 
+---
 
 Ficha de Evaluación de Riesgos - Seguridad Física y Ambiental
 
