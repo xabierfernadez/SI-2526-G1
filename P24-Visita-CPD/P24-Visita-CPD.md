@@ -146,7 +146,7 @@ Un ambiente desordenado puede dificultar la evacuación en caso de emergencia ya
 # Conclusión
 
 Teniendo en cuenta los datos vistos, y el propósito del CPD (un servidor y cosas del centro), no requiere realmente de muchos elementos de seguridad a mayores de los que ya tiene.
-Marcaría como importante la incidencia de la probabilidad de inundación, ya que el CPD podría quedar completamente inutilizable.
+Marcaría como importante la incidencia de la probabilidad de inundación, ya que el CPD se encuentra encima de un sistema de cañerias debido al baño que hay en el piso de arriba y en caso de fuga podría quedar completamente inutilizable.
 
 <div style="page-break-after: always;"></div>
 
@@ -165,3 +165,4 @@ Le pongo riesgo “Medio” y no “Alto”, ya que la gravedad sería alta, per
 
 
 
+Marcaría como importante la incidencia de la probabilidad de inundación, ya que el CPD se encuentra encima de un sistema de cañerias debido al baño quehaiy en el piso de arriba y en caso de fuga podría quedar completamente inutilizable.
