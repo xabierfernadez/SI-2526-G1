@@ -38,6 +38,9 @@
   - [Condiciones ambientales: ventilación, temperatura, humedad.](#condiciones-ambientales-ventilación-temperatura-humedad)
   - [Protección contra incendios (¿hay extintores?, ¿alarmas?, ¿salidas de emergencia?).](#protección-contra-incendios-hay-extintores-alarmas-salidas-de-emergencia)
   - [Control de acceso físico: cerraduras, armarios, cámaras, etc.](#control-de-acceso-físico-cerraduras-armarios-cámaras-etc)
+  - [Existencia de SAI o protección eléctrica](#existencia-de-sai-o-protección-eléctrica)
+  - [Orden y limpieza: ¿facilita o dificulta la evacuación y el mantenimiento?](#orden-y-limpieza-facilita-o-dificulta-la-evacuación-y-el-mantenimiento)
+- [Conclusión](#conclusión)
 
 
 ## Ubicación física de los equipos (¿hay luz directa, humedad, polvo, enchufes sobrecargados, cables sin proteger...?).
@@ -116,15 +119,31 @@ Había una cámara de videovigilancia apuntando al frente del CPD, pero creo que
 El armario contaba con cerraduras de llave, tanto en la parte posterior, como en la anterior. Aplica lo mismo que comenté en el punto anterior, de poner un sistema de seguridad biométrico.
 
 <br>
+<br>
 
 ## Existencia de SAI o protección eléctrica
 
 Hay un SAI, se consedera como la primera línea de defensa, Su capacidad para ofrecer suministro energético temporal y controlado no solo evita caídas bruscas, sino que permite una gestión ordenada del apagado de sistemas, protege equipos sensibles y, sobre todo, asegura que las operaciones continúen sin sobresaltos. asegura la continuidad del suministro eléctrico a los equipos críticos en caso de un corte de energía.
 
+En este caso, el SAI no superaba el 70% (creo que estaba al 55 - 60%). No he visto algún otro SAI de respaldo en caso de que falle el principal.
+
+El SAI está conectado a un enchufe inteligente.
+
+<br>
+<br>
+
 ## Orden y limpieza: ¿facilita o dificulta la evacuación y el mantenimiento?
+
+Está ubicado de manera que es fácil de limpiar y no dificulta el paso en caso de emergencia.
+
+En cuanto a la limpieza, es fácil de limpiar por todos lados exceptuando uno, que es el que tiene próximo a una pared.
 
 Un ambiente desordenado puede dificultar la evacuación en caso de emergencia ya que las zonas de paso y salida pueden estar obstruidas, Además la limpieza regular es esencial para mantener condiciones higiénicas adecuadas y prevenir accedentes.Un CPD bien organizado y limpio no solo mejora la seguridad sino que también contribuye a un entorno laboral agradable.
 
+<br>
+<br>
 
+# Conclusión
 
-
+Teniendo en cuenta los datos vistos, y el propósito del CPD (un servidor y cosas del centro), no requiere realmente de muchos elementos de seguridad a mayores de los que ya tiene.
+Marcaría como importante la incidencia de la probabilidad de inundación, ya que el CPD podría quedar completamente inutilizable.
