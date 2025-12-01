@@ -57,9 +57,9 @@ De esa manera, llega una cantidad mínima de luz natural, y esta no es directa.
 
 - Humedad
 
-No vimos ningún elemento que controlara ni midiese la humedad del CPD, lo cual encuentro extraño, ya que la humedad puede ser muy dañina en cuanto a la vida útil de los equipos electrónicos en general.
+No vimos ningún elemento que controlara ni midiese la humedad del CPD, lo cual encontramos extraño, ya que la humedad puede ser muy dañina en cuanto a la vida útil de los equipos electrónicos en general.
 
-Cabe destacar que en mi corta estadía, no detecté humedad, pero eso no elimina la incidencia.
+Cabe destacar que en nuestra corta estadía, no hemos detectado humedad, pero eso no elimina la incidencia.
 
 <br>
 
@@ -71,7 +71,7 @@ Estaba todo limpio y sin polvo.
 
 - Enchufes sobrecargados
 
-Había 1 enchufe para el armario, y este tenía un enchufe inteligente.
+Había un  enchufe para el armario, y este tenía un enchufe inteligente.
 
 <br>
 
@@ -98,27 +98,30 @@ Había un dispositivo de aire acondicionado y un sensor de temperatura en la par
 
 Como ya comentamos anteriormente...
 
-No había control de humedad y eso es peligroso para la vida útil de los dispositivos electrónicos.
+No había control de humedad y eso es peligroso para la vida útil de los dispositivos electrónicos porque puede haber corrosión  o fallos eléctricos.
 
 <br>
 <br>
 
 ## Protección contra incendios (¿hay extintores?, ¿alarmas?, ¿salidas de emergencia?).
 
-No vimos ni extintor ni alarma, lo cual es muy peligroso en un CPD, con elementos electronicos a altas temperaturas. Es Importante contar con una alarma para entrar en acción lo antes posible, y un extintor para poder luchar contra un incendio y salvar todo lo posible.
+No vimos ni extintor ni alarma, lo cual es muy peligroso en un CPD, con elementos eléctronicos a altas temperaturas.
+Es Importante contar con una alarma para entrar en acción lo antes posible, y un extintor para poder luchar contra un incendio y salvar todo lo posible.
 
-Si había una ventana que se podría usar como salida de emergencia.
+Si, había una ventana que se podría usar como la salida de emergencia.
 
 <br>
 <br>
 
 ## Control de acceso físico: cerraduras, armarios, cámaras, etc.
 
-Para acceder, era necesaria una llave de seguridad, lo cual no veo del todo efectivo, ya que la llave se puede perder o puede ser robada. Sería más seguro utilizar un sistema biométrico, por ejemplo el de huella dactilar, ya que, entre otras opciones, no es muy costoso y ya estamos familiarizados con esa medida de seguridad.
+Para acceder, era necesaria una llave de seguridad, lo cual no vimos  del todo efectivo, ya que la llave se puede perder o puede ser robada.
+Sería más seguro utilizar un sistema biométrico, por ejemplo el de huella dactilar, ya que, entre otras opciones, no es muy costoso y ya estamos familiarizados con esa medida de seguridad.
 
 Había una cámara de videovigilancia apuntando al frente del CPD, pero creo que no estaría de más otra cámara apuntando hacia la entrada del CPD, de esa manera, aprovechando que la entrada es de cristal, el interior del CPD estaría monitorizado en todo momento, tanto en el exterior, como en el interior.
 
-El armario contaba con cerraduras de llave, tanto en la parte posterior, como en la anterior. Aplica lo mismo que comenté en el punto anterior, de poner un sistema de seguridad biométrico.
+El armario contaba con cerraduras de llave, tanto en la parte posterior, como en la anterior.
+Aplica lo mismo que comentamos en el punto anterior, de poner un sistema de seguridad biométrico.
 
 <br>
 <br>
@@ -140,7 +143,8 @@ Está ubicado de manera que es fácil de limpiar y no dificulta el paso en caso 
 
 En cuanto a la limpieza, es fácil de limpiar por todos lados exceptuando uno, que es el que tiene próximo a una pared.
 
-Un ambiente desordenado puede dificultar la evacuación en caso de emergencia ya que las zonas de paso y salida pueden estar obstruidas, Además la limpieza regular es esencial para mantener condiciones higiénicas adecuadas y prevenir accedentes.Un CPD bien organizado y limpio no solo mejora la seguridad sino que también contribuye a un entorno laboral agradable.
+Un ambiente desordenado puede dificultar la evacuación en caso de emergencia ya que las zonas de paso y salida pueden estar obstruidas, Además la limpieza regular es esencial para mantener condiciones higiénicas adecuadas y prevenir accedentes.
+Un CPD bien organizado y limpio no solo mejora la seguridad sino que también contribuye a un entorno laboral agradable.
 
 <br>
 <br>
