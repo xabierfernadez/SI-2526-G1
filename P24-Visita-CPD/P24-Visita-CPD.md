@@ -40,7 +40,9 @@
   - [Control de acceso físico: cerraduras, armarios, cámaras, etc.](#control-de-acceso-físico-cerraduras-armarios-cámaras-etc)
   - [Existencia de SAI o protección eléctrica](#existencia-de-sai-o-protección-eléctrica)
   - [Orden y limpieza: ¿facilita o dificulta la evacuación y el mantenimiento?](#orden-y-limpieza-facilita-o-dificulta-la-evacuación-y-el-mantenimiento)
-- [Conclusión](#conclusión)
+- [Conclusiones](#conclusiones)
+  - [Conclusión](#conclusión)
+  - [Conclusión general del análisis](#conclusión-general-del-análisis)
 
 
 ## Ubicación física de los equipos (¿hay luz directa, humedad, polvo, enchufes sobrecargados, cables sin proteger...?).
@@ -143,7 +145,9 @@ Un ambiente desordenado puede dificultar la evacuación en caso de emergencia ya
 <br>
 <br>
 
-# Conclusión
+# Conclusiones
+
+## Conclusión
 
 Teniendo en cuenta los datos vistos, y el propósito del CPD (un servidor y cosas del centro), no requiere realmente de muchos elementos de seguridad a mayores de los que ya tiene.
 Marcaría como importante la incidencia de la probabilidad de inundación, ya que el CPD se encuentra encima de un sistema de cañerias debido al baño que hay en el piso de arriba y en caso de fuga podría quedar completamente inutilizable.
@@ -154,15 +158,19 @@ Ficha de Evaluación de Riesgos - Seguridad Física y Ambiental
 
 | Riesgo detectado | Nivel de riesgo (bajo/medio/alto) | Observaciones | Propuesta de mejora |
 |:-:|:-:|:-:|:-:|
-| Puerta de cristal | Bajo | Es fácil romper el cristal o que se rompa accidentalmente, lo cual dejaría via libre para entrar al CPD. | Pueden seguir siendo de cristal, pero que tengan algún elemento más, como pueden ser barrotes de aluminio u otro material. Conservaría la funcionalidad y sería más seguro. |
-| Posibilidad de inundación | Alto | El CPD está muy mal situado. Está en una planta baja, en frente tiene unas escaleras que vienen del piso superior y casi sobre el hay situado un baño. | Instalar el CPD en una segunda planta, sin tener escaleras delante ya solucionaría el problema. |
-| Humedad | Media | No vi ningún elemento que controlara ni midiese la humedad del CPD, lo cual encuentro extraño, ya que la humedad puede ser muy dañina en cuanto a la vida útil de los equipos electrónicos en general.
-Le pongo riesgo “Medio” y no “Alto”, ya que la gravedad sería alta, pero aunque no haya elementos que controlasen la humedad, no se detectaba humedad en el ambiente. | Se solucionaría facilmente con un detector de humedad y un dispositivo que la controlase, como un deshumidificador. |
-|  |  |  |  |
-|  |  |  |  |
+| Robo | Alto | Es fácil romper el cristal o que se rompa accidentalmente, lo cual dejaría via libre para entrar al CPD. | Pueden seguir siendo de cristal, pero que tengan algún elemento más, como pueden ser barrotes de aluminio u otro material. Conservaría la funcionalidad y sería más seguro. |
+| Posibilidad de inundación | Alto | El CPD está muy mal situado. Está en una planta baja, en frente tiene unas escaleras que vienen del piso superior y casi sobre el hay situado un baño. | Instalar el CPD en una segunda planta, sin tener escaleras delante ya solucionaría el problema. | 
+| Riesgo de apagado | Medio | Solamente había un SAI, por lo que en caso de apagón o cese de suministro electrico, no habría repuesto para continuar suministrando de electricidad al servidor. | Se podría comprar otro SAI de repuesto o un pequeño generador a combustión que entrase en funcionamiento en caso de ser necesario. |
+| Humedad | Media | No vi ningún elemento que controlara ni midiese la humedad del CPD, lo cual encuentro extraño, ya que la humedad puede ser muy dañina en cuanto a la vida útil de los equipos electrónicos en general. Le pongo riesgo “Medio” y no “Alto”, ya que la gravedad sería alta, pero aunque no haya elementos que controlasen la humedad, no se detectaba humedad en el ambiente. | Se solucionaría facilmente con un detector de humedad y un dispositivo que la controlase, como un deshumidificador. |
+| Sísmico | Bajo | No se ubica en una zona geográficamente peligrosa, pero tampoco tiene ningún tipo de seguridad al respecto. | Instalar el CPD en una sala anti-sísmica. |
+| Incendios | Medio | La sala no dispone de sistema anti-incendios. | Se solucionaría facilmente instalando un detector de humo y un extintor adecuado para aplicar sobre equipo informático. |
+| Electromagnético | Medio | La sala no cuenta con una jaula de faraday en caso de alguna interferencia electromagnetica. | Instalación de jaula de faraday. |
 
+<br>
 
+## Conclusión general del análisis
 
+Teniendo en cuenta los datos vistos, y el propósito del CPD (un servidor y cosas del centro), no requiere realmente de muchos elementos de seguridad a mayores de los que ya tiene.
 
+Marcaríamos como importante la incidencia de la probabilidad de inundación, ya que el CPD podría quedar completamente inutilizable.
 
-Marcaría como importante la incidencia de la probabilidad de inundación, ya que el CPD se encuentra encima de un sistema de cañerias debido al baño quehaiy en el piso de arriba y en caso de fuga podría quedar completamente inutilizable.
