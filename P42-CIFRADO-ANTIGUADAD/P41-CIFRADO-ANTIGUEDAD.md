@@ -41,6 +41,7 @@ Lista de cifrados de la antiguedad y la edad media
 7. Cifrado de Vigenère
 8. cuadrado de polibio
 9. atbsh
+10. cifrados egipcios
 
 
 
