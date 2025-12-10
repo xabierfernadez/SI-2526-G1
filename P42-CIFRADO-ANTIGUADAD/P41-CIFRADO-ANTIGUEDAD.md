@@ -1,12 +1,12 @@
-# David Carral
+# David Carral -- Adán -- Nezha -- Javier
 
 ## 2º Sistemas Microinformáticos y Redes
 
-### **Unidad:**   
+### **Unidad: 4**   
 
-### **Práctica Nº:**  
+### **Práctica Nº: 42**  
 
-### **Título:** Cifrado Antiguedad  
+### **Título: Cifrados de la antiguedad**   
 
 ### **Fecha: 10/12/2025**  
 
@@ -26,15 +26,33 @@
 ---
 
 # Índice
-1. [Ejercicio 1](#ejercicio-1)
-2. [Ejercicio 2](#ejercicio-2)
+
+
+
+Lista de cifrados de la antiguedad y la edad media
+
+
+1. Transposición
+2. Sustitución
+3. Cifrado César
+4. Sustitución monoalfabética
+5. Sustitución polialfabética
+6. El cifrado de Playfair
+7. Cifrado de Vigenère
 
 
 
 
-# Ejercicio 1
 
-# Ejercicio 2
+
+
+
+
+
+
+
+
+
 
 
 
