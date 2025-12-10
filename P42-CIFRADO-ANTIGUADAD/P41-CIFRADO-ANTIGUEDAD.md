@@ -39,7 +39,8 @@ Lista de cifrados de la antiguedad y la edad media
 5. Sustitución polialfabética
 6. El cifrado de Playfair
 7. Cifrado de Vigenère
-
+8. cuadrado de polibio
+9. atbsh
 
 
 
