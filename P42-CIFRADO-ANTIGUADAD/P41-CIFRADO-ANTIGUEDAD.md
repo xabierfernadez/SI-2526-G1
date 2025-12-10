@@ -6,9 +6,9 @@
 
 ### **Práctica Nº:**  
 
-### **Título:**   
+### **Título:** Cifrado Antiguedad  
 
-### **Fecha: / /2025**  
+### **Fecha: 10/12/2025**  
 
 
 <p align="center">
@@ -35,4 +35,6 @@
 # Ejercicio 1
 
 # Ejercicio 2
+
+
 
