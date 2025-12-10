@@ -37,6 +37,8 @@ Lista de cifrados de la antiguedad y la edad media
 3. Cifrado César
 4. Sustitución monoalfabética
 5. Sustitución polialfabética
+6. El cifrado de Playfair
+7. Cifrado de Vigenère
 
 
 
