@@ -26,13 +26,31 @@
 ---
 
 # Índice
-1. [Ejercicio 1](#ejercicio-1)
-2. [Ejercicio 2](#ejercicio-2)
+
+
+
+Lista de cifrados de la antiguedad y la edad media
+
+
+1. Transposición
+2. Sustitución
+3. Cifrado César
+4. Sustitución monoalfabética
+5. Sustitución polialfabética
 
 
 
 
-# Ejercicio 1
 
-# Ejercicio 2
+
+
+
+
+
+
+
+
+
+
+
 
