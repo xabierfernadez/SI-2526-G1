@@ -27,12 +27,23 @@
 
 # Índice
 
-
+- [David Carral -- Adán -- Nezha -- xabier](#david-carral----adán----nezha----xabier)
+  - [2º Sistemas Microinformáticos y Redes](#2º-sistemas-microinformáticos-y-redes)
+    - [**Unidad: 4**](#unidad-4)
+    - [**Práctica Nº: 42**](#práctica-nº-42)
+    - [**Título: Cifrados de la antiguedad**](#título-cifrados-de-la-antiguedad)
+    - [**Fecha: 10/12/2025**](#fecha-10122025)
+- [Índice](#índice)
+- [Metodo polibios:](#metodo-polibios)
+- [cifrado cesar](#cifrado-cesar)
+    - [ejemplo :](#ejemplo-)
+- [cifrado vegenere](#cifrado-vegenere)
+    - [ejemplo :](#ejemplo--1)
 
 Lista de cifrados de la antiguedad y la edad media
 
 
-1. Escítala espartana
+1. playfair
 2. metodo polibios
 3. cifrado cesar
 4. cifrado de vingenere
@@ -81,14 +92,15 @@ el ejemplo se hizo utilizando un desplazamiento de 3 letras mas adelante en el a
 <br>
 
 # cifrado vegenere
-es un metodo de cifrado polialfabetico que utiliza una palabra clave para cifrar un mensaje funciona repitiendo la palabra clave asta que tenga la misma longitud del mensaje
+es un metodo de cifrado polialfabetico que utiliza una palabra clave para cifrar un mensaje funciona repitiendo la palabra clave asta que tenga la misma longitud del mensaje cada letra se cifra con una tabla de vegenere que es una tabla de 26 filas y 26 columnas donde cada fila se desplaza un lugar respecto a la fila anterior
 
 
 
+### ejemplo :
+texto plano : ejemplo 
 
+clave : vegenere 
 
+texto cifrado : ZNKZTCS
 
-
-
-
-
+<img src="img/Tabla de Vigenère - Ejemplo (5).png"  width="500"/></a>
