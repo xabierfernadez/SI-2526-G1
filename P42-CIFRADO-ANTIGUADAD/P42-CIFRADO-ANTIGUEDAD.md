@@ -32,16 +32,11 @@
 Lista de cifrados de la antiguedad y la edad media
 
 
-1. Transposición
-2. Sustitución
-3. Cifrado César
-4. Sustitución monoalfabética
-5. Sustitución polialfabética
-6. El cifrado de Playfair
-7. Cifrado de Vigenère
-8. cuadrado de polibio
-9. atbsh
-10. cifrados egipcios
+1. Escítala espartana
+2. metodo polibios
+3. cifrado cesar
+4. cifrado de vingenenere
+
 
 
 
