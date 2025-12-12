@@ -1,4 +1,4 @@
-# David Carral -- Adán -- Nezha -- Javier
+# David Carral -- Adán -- Nezha -- xabier
 
 ## 2º Sistemas Microinformáticos y Redes
 
