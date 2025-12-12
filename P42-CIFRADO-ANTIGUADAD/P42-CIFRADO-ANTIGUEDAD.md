@@ -35,7 +35,7 @@ Lista de cifrados de la antiguedad y la edad media
 1. Escítala espartana
 2. metodo polibios
 3. cifrado cesar
-4. cifrado de vingenenere
+4. cifrado de vingenere
 
 
 
@@ -59,7 +59,29 @@ Texto cifrado: ACBDBADBAAADAEDACECBBDABBDCE
 
 Una de las ventajas del cifrado del polibio es que emplea únicamente 5 letras para escribir cualquier mensaje,y el problema que tiene es :el mensaje cifrado tiene el doble de longitud  que el texto claro.
 
+<br>
+<br>
+<br>
 
+# cifrado cesar
+es un metodo simple de cifrado por sustitucion que reemplaza cada letra de un mensaje por otra que se encuentra un numero fijo de posiciones mas adelante o mas atras en el alfabeto 
+
+### ejemplo :
+texto plano: mensaje de ejemplo
+
+texto cifrado:KHKVDMH GH HMHPOR
+
+el ejemplo se hizo utilizando un desplazamiento de 3 letras mas adelante en el alfabeto
+
+
+<img src="img/tabla-cesar.png"  width="1000"/></a>
+
+<br>
+<br>
+<br>
+
+# cifrado vegenere
+es un metodo de cifrado polialfabetico que utiliza una palabra clave para cifrar un mensaje funciona repitiendo la palabra clave asta que tenga la misma longitud del mensaje
 
 
 
