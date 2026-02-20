@@ -1,16 +1,14 @@
-
-# Nombre completo
+# David Carral -- Xabier Fernandez -- Nezha -- Adan Rodrigo
 
 ## 2º Sistemas Microinformáticos y Redes
 
+### **Unidad:**  4
 
+### **Práctica Nº:** 6
 
-### **Unidad:**   
+### **Título:** 
 
-### **Práctica Nº:**  
-### **Título:**   
-
-### **Fecha:**  
+### **Fecha:** 20/02/2026
 
 
 <p align="center">
@@ -28,13 +26,9 @@
 ---
 
 # Índice
-1. [Ejercicio 1](#ejercicio-1)
-2. [Ejercicio 2](#ejercicio-2)
 
 
 
 
-# Ejercicio 1
 
-# Ejercicio 2
 
